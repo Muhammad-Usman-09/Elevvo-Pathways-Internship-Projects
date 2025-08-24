@@ -1,0 +1,21 @@
+📈 Sales Forecasting
+
+📌 Objective
+Forecast future sales using historical sales data with time-series analysis.
+
+📊 Dataset
+    - Features: Date, Sales
+    - Target: Future Sales
+
+🔧 Steps Taken
+    - Checked for missing values and trends
+    - Performed data visualization (line plots, seasonal patterns)
+    - Applied Time Series models (ARIMA, Moving Average, Linear Regression on trends)
+    - Evaluated forecast accuracy using RMSE/MAE
+
+🏆 Results
+    - Clear upward/downward sales trends detected
+    - ARIMA model produced the most reliable forecasts
+
+
+
