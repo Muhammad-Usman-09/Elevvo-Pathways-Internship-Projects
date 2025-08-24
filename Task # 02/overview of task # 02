@@ -1,1 +1,20 @@
-b
+💰 Loan Approval Prediction
+
+📌 Objective
+Build a machine learning model to predict whether a loan application will be **Approved** or **Rejected**.
+
+📊 Dataset
+    - Features: Dependents, Education, Employment, Income, Loan Amount, CIBIL score, Assets, etc.
+    - Target: `loan_status`
+
+🔧 Steps Taken
+    - Data preprocessing (categorical encoding, handling missing values)
+    - Exploratory Data Analysis (Distribution plots, Countplots)
+    - Applied Classification models (Logistic Regression, Decision Tree, Random Forest)
+    - Evaluated with Accuracy, Precision, Recall, F1-score
+
+🏆 Results
+    - CIBIL Score and Loan Amount were the most influential features
+    - Random Forest gave the best classification accuracy
+
+
