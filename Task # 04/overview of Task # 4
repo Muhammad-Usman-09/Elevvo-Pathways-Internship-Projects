@@ -1,0 +1,23 @@
+🛍️ Customer Segmentation
+
+📌 Objective
+Cluster customers into groups based on their **Annual Income** and **Spending Score**.
+
+📊 Dataset
+    - Mall Customer Dataset (Kaggle)
+    - Features: Income, Spending Score
+
+🔧 Steps Taken
+    - Data scaling for clustering
+    - Exploratory Data Analysis (scatterplots, distributions)
+    - K-Means clustering applied
+    - Elbow Method used to find optimal clusters
+    - Visualized clusters in 2D plots
+
+🏆 Results
+    - Customers segmented into different groups (e.g., High Income–High Spending, Low Income–Low Spending, etc.)
+    - Useful for targeted marketing strategies
+
+🎯 Bonus
+    - Implemented DBSCAN clustering for comparison
+    - Analyzed average spending per cluster
