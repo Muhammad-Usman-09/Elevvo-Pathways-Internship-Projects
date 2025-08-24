@@ -1,1 +1,20 @@
-a
+🎓 Student Score Prediction
+
+📌 Objective
+Predict students' exam scores based on study hours, attendance, motivation, and other academic/social factors.
+
+ 📊 Dataset
+      - Features: Hours Studied, Attendance, Sleep Hours, Tutoring, etc.
+      - Target: `Exam_Score`
+
+🔧 Steps Taken
+      - Data cleaning (handle missing values, encoding categorical variables)
+      - Exploratory Data Analysis (Heatmap, Scatterplots, Boxplots)
+      - Linear Regression model applied
+      - Evaluated using Mean Squared Error (MSE) & R² score
+
+🏆 Results
+      - Positive correlation between hours studied, attendance, and exam performance
+      - Linear Regression provided good predictions
+
+
